@@ -15,7 +15,7 @@ Clone this repo to the location of your choice
 You may need to change the permissions of this file to run it:
 > chmod 755 streaming.pl
 
-Update the following values in the connect_to_stream method in streaming.py
+Update the following values in the connect_to_stream method in streaming.pl
 
 * environment
 * accounts
@@ -25,7 +25,7 @@ Update the following values in the connect_to_stream method in streaming.py
 ### Usage
 
 ~~~
-./streaming.py
+./streaming.pl
 ~~~
 
 ### Sample Output
